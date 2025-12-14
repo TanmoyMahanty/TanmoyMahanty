@@ -14,7 +14,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="center">
       <h2>👋 About Me</h2>
       <p>
         I am an <b>Assistant ML Engineer at Capsitech</b> and a Data Science graduate from <b>Haldia Institute of Technology</b>. My passion lies in bridging the gap between theoretical AI and real-world applications.
@@ -22,6 +22,7 @@
       <p>
         Currently, I am focused on building <b>Agentic AI</b> workflows and <b>Computer Vision</b> systems for enterprise automation.
       </p>
+      <br/>
       <ul>
         <li>🔭 <b>Working on:</b> Automated employee tracking & NLP extraction tools </li>
         <li>🌱 <b>Learning:</b> Advanced RAG Architectures & Agentic AI</li>
@@ -29,8 +30,8 @@
         <li>📫 <b>Contact:</b> <a href="mailto:tanmoymahanty90@gmail.com">tanmoymahanty90@gmail.com</a> </li>
       </ul>
     </td>
-    <td width="40%" valign="center">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDEzMXdiZjZwaDZ2ZXFhZGRud3d2NGprcm9jeHZnbWJ3cnZnc3dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="100%" alt="Coding Gif"/>
+    <td width="45%" valign="center">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDEzMXdiZjZwaDZ2ZXFhZGRud3d2NGprcm9jeHZnbWJ3cnZnc3dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="100%" alt="AI Engineer Gif"/>
     </td>
   </tr>
 </table>
@@ -67,11 +68,10 @@
 <h2 align="center">⚡ GitHub Analytics</h2>
 <div align="center">
   <a href="https://github.com/TanmoyMahanty">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanmoyMahanty&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmoyMahanty&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanmoyMahanty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmoyMahanty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
 </div>
-
 
 <br/>
 
